@@ -53,3 +53,5 @@ or request Issues!
 
 
 "ALPHA Is Best Arabic Server Developer"
+
+<iframe src="https://discordapp.com/widget?id=565291056422453256&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
