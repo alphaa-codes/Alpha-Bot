@@ -1,5 +1,4 @@
 # A L P H A
-![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
 #DEVELOPERS
 `RG , YATO#0001`
