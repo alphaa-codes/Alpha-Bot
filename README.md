@@ -1,7 +1,7 @@
 # A L P H A
 
 #DEVELOPERS
-`RG , YATO#0001`
+`YATO#0001`
 
 <a href="https://discord.gg/pYTVYza"><img src="https://discordapp.com/api/guilds/565291056422453256/embed.png" alt="Discord server" /></a>
 
