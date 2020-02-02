@@ -54,4 +54,4 @@ or request Issues!
 
 "ALPHA Is Best Arabic Server Developer"
 
-[![ALPHA](https://discordapp.com/api/guilds/565291056422453256/widget.json)](https://discord.gg/Hg4myC6)
+(https://discordapp.com/api/guilds/565291056422453256/widget.json)](https://discord.gg/Hg4myC6)
